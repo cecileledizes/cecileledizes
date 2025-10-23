@@ -2,11 +2,11 @@
 
 I am a Ph.D. candidate specializing in **fluid dynamics** and **ocean science**.
 
-## Boundary Element Method for internal tide generation
+### Boundary Element Method for internal tide generation
 I have developed a Boundary Element Method for simulating the generation of internal tides by arbitrary three-dimensional topographies. 
 More informations on the code can be found [**here**](https://github.com/cecileledizes/ITIDES-3D).
 
-## Posters and presentations
+### Posters and presentations
 My posters and presentations can be found [**here**](https://github.com/cecileledizes/communications).
 
 
