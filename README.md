@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Cécile Le Dizes's profile
+
+I am a Ph.D. candidate specializing in **fluid dynamics** and **ocean science**.
+
+## Boundary Element Method for internal tide generation
+I have developed a Boundary Element Method for simulating the generation of internal tides by arbitrary three-dimensional topographies. 
+More informations on the code can be found [**here**](#).
+
+## Posters and presentations
+My posters and presentations can be found [**here**](https://github.com/cecileledizes/communications).
+
 
 <!--
 **cecileledizes/cecileledizes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
