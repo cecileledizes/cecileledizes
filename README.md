@@ -1,14 +1,20 @@
-## Hi there 👋 Welcome to Cécile Le Dizes's profile
+### Hi, I'm Cécile Le Dizes 👋
 
-I am a Ph.D. candidate specializing in **fluid dynamics** and **ocean science**.
+I'm a researcher in **geophysical fluid dynamics** (PhD, IMFT Toulouse, 2025), working on internal tides, ocean–topography interactions and stratified turbulence, with a focus on scientific computing and numerical methods.
 
-### Boundary Element Method for internal tide generation
-I have developed a Boundary Element Method for simulating the generation of internal tides by arbitrary three-dimensional topographies. 
-More informations on the code can be found [**here**](https://github.com/cecileledizes/ITIDES-3D).
+🌐 **Website:** [cecileledizes.github.io](https://cecileledizes.github.io)
 
-### Posters and presentations
-My posters and presentations can be found [**here**](https://github.com/cecileledizes/communications).
+#### Research
+- **Internal tide generation by 3-D seamounts**: I developed [ITIDES-3D](https://github.com/cecileledizes/ITIDES-3D), a parallel boundary element solver for internal tide generation over arbitrary isolated topographies.
+- **Density layering in rotating, stratified turbulence**: work started at the Woods Hole GFD Program (2024).
 
+#### Publication
+Le Dizès, C., Grisouard, N., Thual, O. & Mercier, M. J. (2025). *Three-dimensional modelling of internal tide generation over isolated seamounts in a rotating ocean.* Journal of Fluid Mechanics, 1022, A5. [doi:10.1017/jfm.2025.10647](https://doi.org/10.1017/jfm.2025.10647)
+
+#### Talks & posters
+Slides and posters are available in [communications](https://github.com/cecileledizes/communications).
+
+📫 Contact: cecile.ledizes [at] imft.fr
 
 <!--
 **cecileledizes/cecileledizes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
